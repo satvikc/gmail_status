@@ -2,7 +2,7 @@
 This is very cool script which you can add to your crontab and see the magic. It will automatically change your status to a randomly chosen quote .
 
 ##Requirements##
-python 2.x and fortune-mod.
+python 2.x and fortune-mod and python xmpp library
 
 ##Variables##
 
